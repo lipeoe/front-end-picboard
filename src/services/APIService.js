@@ -3,5 +3,3 @@ import axios from "axios"
 export const API_URL = axios.create({
     baseURL: import.meta.env.VITE_APIURL
 })
-
-console.log("API base:", API_URL.defaults.baseURL);
