@@ -2,8 +2,6 @@
 Aplicação **React + Vite** para visualização e análise de métricas financeiras da **PicMoney**.  
 Este projeto entrega um **dashboard analítico** com visões para **CEO** e **CFO**, incluindo KPIs, gráficos e textos explicativos.
 
-> Observação: o repositório foi iniciado a partir do template **React + Vite** e utiliza build para `dist/` (não `build/`). :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 🌐 Demonstração (Azure Static Web Apps)
